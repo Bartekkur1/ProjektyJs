@@ -1,0 +1,55 @@
+body {
+    background: url("https://s-media-cache-ak0.pinimg.com/originals/e4/f1/2d/e4f12de124503ec0306394bb969ddd8d.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*nic to ciekawego nie ma kurwiu mały*/
+#top {
+    width: 60%;
+    height: 10%;
+    border-style: solid;
+    border-width: 5px;
+    margin-left: 20%;
+}
+#container {
+    width: 60%;
+    height: 85%;
+    border-style: solid;
+    border-width: 5px;
+    margin-top: 5px;
+    margin-left: 20%;
+    background-color: grey;
+    line-height: 50%;
+}
+#text {
+    font-size: 24px;
+    font-family: Impact, Charcoal, sans-serif;
+    margin-top: 200px;
+    line-height: 50px;
+    margin-bottom: 50px;
+}
+.foto {
+    padding: 20px;
+}
+#link {
+    text-decoration: none;
+    color: black;
+}
+#icon {
+    height: 20%;
+    padding-right:5px;
+}
+
+#button {
+    background-color: grey;
+    width: 25%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    line-height: 130.5px;
+    border-style: solid;
+    border-width: 1px;
+    box-sizing: border-box;
+    font-size: 24px;
+    font-family: Impact, Charcoal, sans-serif;
+}

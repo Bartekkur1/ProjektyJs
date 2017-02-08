@@ -1,0 +1,12 @@
+#player1 {
+    font-size: 40px;
+    position: absolute;
+    left: 30%;
+    top: 10%
+}
+#player2 {
+    font-size: 40px;
+    position: absolute;
+    left: 60%;
+    top: 10%
+}
